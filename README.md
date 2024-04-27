@@ -1,3 +1,7 @@
+# Notice
+
+This repo is an import from a private Gitlab, therefore the pipeline will not work
+
 # Blackjack RL Agent template
 
 An agent implementation template for the [Gymnasium Blackjack environment](https://gymnasium.farama.org/environments/toy_text/blackjack/).
